@@ -20,16 +20,6 @@ Gosto de entender como as coisas funcionam e aplicar o que aprendo em projetos. 
 
 Este espaço acompanha minha evolução: exercícios, descobertas e projetos em desenvolvimento.
 
-## O que estou aprendendo
-
-| Área | Estudos e prática |
-| --- | --- |
-| **Desenvolvimento web** | HTML, CSS e fundamentos de JavaScript |
-| **Lógica de programação** | Variáveis, condições, repetições e funções |
-| **Linguagem C** | Fundamentos e exercícios de programação |
-| **Banco de dados** | Modelagem, entidades e relacionamentos |
-| **Git e GitHub** | Organização e versionamento dos projetos |
-
 ## Projeto em destaque
 
 ### 🎮 [Jogo do Número Secreto](https://github.com/Gustavo-Azevedo223/jogo-do-n-mero-secreto)
