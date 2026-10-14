@@ -14,7 +14,7 @@ Aprendendo a transformar ideias em projetos com código.
 
 ## Sobre mim
 
-Sou Gustavo Azevedo da Silva e curso **Análise e Desenvolvimento de Sistemas (ADS)**. Estou construindo minha base em programação, praticando lógica e criando páginas com HTML, CSS e JavaScript.
+Sou Gustavo Azevedo da Silva e curso **Análise e Desenvolvimento de Sistemas (ADS)**. Estou construindo minha base em programação.
 
 Gosto de entender como as coisas funcionam e aplicar o que aprendo em projetos. Tenho interesse em desenvolver sistemas que ajudem a resolver problemas do dia a dia de pessoas e empresas.
 
