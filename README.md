@@ -1,46 +1,79 @@
 <div align="center">
 
-# Olá, eu sou o Gustavo 👋
+![Gustavo Azevedo — Player Dev. Estudante de ADS, transformando ideias em código.](./assets/player-dev.svg)
 
-**Estudante de Análise e Desenvolvimento de Sistemas**
+**🎮 Meu código, minhas missões, minha evolução.**
 
-Aprendendo a transformar ideias em projetos com código.
+[![Perfil](https://img.shields.io/badge/PLAYER-Gustavo_Azevedo-a78bfa?style=for-the-badge&labelColor=151222)](https://github.com/Gustavo-Azevedo223)
+[![ADS](https://img.shields.io/badge/CLASSE-Estudante_de_ADS-5eead4?style=for-the-badge&labelColor=151222)](#-ficha-do-jogador)
 
-[Conheça meu projeto](https://github.com/Gustavo-Azevedo223/jogo-do-n-mero-secreto) · [Meus repositórios](https://github.com/Gustavo-Azevedo223?tab=repositories)
+[Selecionar projeto](#-missão-em-destaque) · [Ver missões](#-próximas-missões) · [Explorar repositórios](https://github.com/Gustavo-Azevedo223?tab=repositories)
 
 </div>
 
 ---
 
-## Sobre mim
+### 👾 Ficha do jogador
 
-Sou Gustavo Azevedo da Silva e curso **Análise e Desenvolvimento de Sistemas (ADS)**. Estou construindo minha base em programação.
+Sou **Gustavo Azevedo da Silva**, estudante de **Análise e Desenvolvimento de Sistemas**.
 
-Gosto de entender como as coisas funcionam e aplicar o que aprendo em projetos. Tenho interesse em desenvolver sistemas que ajudem a resolver problemas do dia a dia de pessoas e empresas.
+Gosto de entender como as coisas funcionam e transformar o que aprendo em projetos. Meu objetivo é desenvolver sistemas que resolvam problemas do dia a dia de pessoas e empresas.
 
-Este espaço acompanha minha evolução: exercícios, descobertas e projetos em desenvolvimento.
+Por aqui, cada projeto é uma fase da minha jornada em programação.
 
-## Projeto em destaque
+> **Missão principal:** construir uma base sólida e tirar minhas ideias do papel.
 
-### 🎮 [Jogo do Número Secreto](https://github.com/Gustavo-Azevedo223/jogo-do-n-mero-secreto)
+### 🕹️ Missão em destaque
 
-Um jogo de adivinhação no navegador: o objetivo é descobrir um número entre **1 e 40**, seguindo as dicas a cada tentativa.
+<table>
+<tr><td>
 
-**Tecnologias:** HTML · CSS · JavaScript
+#### 🔐 Jogo do Número Secreto
 
-Nesse projeto, pratico funções, condições, arrays e manipulação dos elementos da página. O repositório inclui as instruções para executar o jogo e as melhorias que ainda pretendo fazer.
+**Um número escondido. Dicas a cada tentativa. Você consegue descobrir?**
 
-[Explorar o código →](https://github.com/Gustavo-Azevedo223/jogo-do-n-mero-secreto)
+Um jogo no navegador em que o desafio é encontrar um número entre **1 e 40**.
 
-## Meus próximos passos
+**Equipamentos:** HTML · CSS · JavaScript  
+**Habilidades em prática:** funções, condições, arrays e manipulação do DOM.
 
-- Fortalecer minha base em lógica de programação.
-- Criar páginas mais organizadas, acessíveis e responsivas.
-- Aprofundar meus estudos em JavaScript e banco de dados.
-- Documentar os projetos e aplicar o que aprendo na faculdade.
+[**▶ ENTRAR NA MISSÃO — ver código e instruções**](https://github.com/Gustavo-Azevedo223/jogo-do-n-mero-secreto)
+
+</td></tr>
+</table>
+
+### ⚔️ Inventário do projeto
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=151222)
+
+</div>
+
+### 🗺️ Mapa da jornada
+
+**Você está aqui → Construindo minha base em programação**
+
+Lógica de programação → Desenvolvimento web → Banco de dados → Sistemas para problemas reais
+
+### 🎯 Próximas missões
+
+- [ ] Fortalecer minha lógica com novos desafios.
+- [ ] Criar páginas mais organizadas, acessíveis e responsivas.
+- [ ] Aprofundar meus conhecimentos em JavaScript.
+- [ ] Aplicar modelagem de banco de dados em um projeto.
+- [ ] Documentar os projetos para que outras pessoas possam executá-los.
+
+*As missões são metas de aprendizado; acompanham minha evolução conforme eu as concluo.*
 
 ---
 
 <div align="center">
-Um projeto de cada vez, colocando o aprendizado em prática.
+
+**💾 SALVE O PROGRESSO. APRENDA. TENTE DE NOVO.**
+
+[**Ver todos os meus repositórios →**](https://github.com/Gustavo-Azevedo223?tab=repositories)
+
 </div>
