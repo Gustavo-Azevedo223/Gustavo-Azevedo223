@@ -1,79 +1,27 @@
-<div align="center">
+# Gustavo Azevedo
 
-![Gustavo Azevedo — Player Dev. Estudante de ADS, transformando ideias em código.](./assets/player-dev.svg)
+**Estudante de Análise e Desenvolvimento de Sistemas**
 
-**🎮 Meu código, minhas missões, minha evolução.**
+Desenvolvimento de sistemas com foco em necessidades reais de pessoas e empresas.
 
-[![Perfil](https://img.shields.io/badge/PLAYER-Gustavo_Azevedo-a78bfa?style=for-the-badge&labelColor=151222)](https://github.com/Gustavo-Azevedo223)
-[![ADS](https://img.shields.io/badge/CLASSE-Estudante_de_ADS-5eead4?style=for-the-badge&labelColor=151222)](#-ficha-do-jogador)
+## Sobre mim
 
-[Selecionar projeto](#-missão-em-destaque) · [Ver missões](#-próximas-missões) · [Explorar repositórios](https://github.com/Gustavo-Azevedo223?tab=repositories)
+Sou Gustavo Azevedo da Silva e curso Análise e Desenvolvimento de Sistemas (ADS). Estou construindo minha formação em tecnologia e aplicando os conhecimentos da faculdade em projetos práticos.
 
-</div>
+Tenho interesse em compreender problemas, organizar soluções e desenvolver sistemas que contribuam para melhorar processos. Neste perfil, compartilho meus projetos e minha evolução profissional.
 
----
+## Projeto em destaque
 
-### 👾 Ficha do jogador
+### [Jogo do Número Secreto](https://github.com/Gustavo-Azevedo223/jogo-do-n-mero-secreto)
 
-Sou **Gustavo Azevedo da Silva**, estudante de **Análise e Desenvolvimento de Sistemas**.
+Aplicação web de adivinhação em que o usuário deve descobrir um número entre 1 e 40, com dicas a cada tentativa.
 
-Gosto de entender como as coisas funcionam e transformar o que aprendo em projetos. Meu objetivo é desenvolver sistemas que resolvam problemas do dia a dia de pessoas e empresas.
+**Tecnologias utilizadas:** HTML, CSS e JavaScript.
 
-Por aqui, cada projeto é uma fase da minha jornada em programação.
+O projeto aplica conceitos de lógica de programação, funções, condições, arrays e manipulação do DOM.
 
-> **Missão principal:** construir uma base sólida e tirar minhas ideias do papel.
-
-### 🕹️ Missão em destaque
-
-<table>
-<tr><td>
-
-#### 🔐 Jogo do Número Secreto
-
-**Um número escondido. Dicas a cada tentativa. Você consegue descobrir?**
-
-Um jogo no navegador em que o desafio é encontrar um número entre **1 e 40**.
-
-**Equipamentos:** HTML · CSS · JavaScript  
-**Habilidades em prática:** funções, condições, arrays e manipulação do DOM.
-
-[**▶ ENTRAR NA MISSÃO — ver código e instruções**](https://github.com/Gustavo-Azevedo223/jogo-do-n-mero-secreto)
-
-</td></tr>
-</table>
-
-### ⚔️ Inventário do projeto
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=151222)
-
-</div>
-
-### 🗺️ Mapa da jornada
-
-**Você está aqui → Construindo minha base em programação**
-
-Lógica de programação → Desenvolvimento web → Banco de dados → Sistemas para problemas reais
-
-### 🎯 Próximas missões
-
-- [ ] Fortalecer minha lógica com novos desafios.
-- [ ] Criar páginas mais organizadas, acessíveis e responsivas.
-- [ ] Aprofundar meus conhecimentos em JavaScript.
-- [ ] Aplicar modelagem de banco de dados em um projeto.
-- [ ] Documentar os projetos para que outras pessoas possam executá-los.
-
-*As missões são metas de aprendizado; acompanham minha evolução conforme eu as concluo.*
+[Consultar código e instruções de execução](https://github.com/Gustavo-Azevedo223/jogo-do-n-mero-secreto)
 
 ---
 
-<div align="center">
-
-**💾 SALVE O PROGRESSO. APRENDA. TENTE DE NOVO.**
-
-[**Ver todos os meus repositórios →**](https://github.com/Gustavo-Azevedo223?tab=repositories)
-
-</div>
+[Todos os repositórios](https://github.com/Gustavo-Azevedo223?tab=repositories)
