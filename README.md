@@ -71,7 +71,7 @@ Estou desenvolvendo meus conhecimentos em programação, desenvolvimento web e b
 
 <br/>
 
-`BUILD // LEARN // EVOLVE`
+`CRIAR // APRENDER // EVOLUIR`
 
 <img width="100%" alt="Rodapé futurista" src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer&amp;color=0:020617,50:0B2B50,100:06B6D4"/>
 
