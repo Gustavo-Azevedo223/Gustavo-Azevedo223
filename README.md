@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Gustavo Dev - Mission Control" src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:020617,50:0B2B50,100:06B6D4&amp;text=GUSTAVO.DEV&amp;fontColor=FFFFFF&amp;fontSize=55&amp;fontAlignY=38&amp;desc=MISSION%20CONTROL%20%2F%2F%20SYSTEM%20ONLINE&amp;descAlignY=60&amp;descSize=17&amp;animation=fadeIn"/>
+<img width="100%" alt="Gustavo Azevedo da Silva" src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:020617,50:0B2B50,100:06B6D4&amp;text=Gustavo%20Azevedo%20da%20Silva&amp;fontColor=FFFFFF&amp;fontSize=36&amp;fontAlignY=50&amp;animation=fadeIn"/>
 
 <img alt="Apresentação animada" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=19&amp;duration=2800&amp;pause=1000&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Ol%C3%A1%2C+eu+sou+Gustavo+Azevedo!;Estudante+de+ADS;Desenvolvimento+Web+%7C+Banco+de+Dados;Transformando+ideias+em+projetos"/>
 
