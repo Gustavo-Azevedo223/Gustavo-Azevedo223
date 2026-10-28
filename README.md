@@ -55,25 +55,13 @@ Estou desenvolvendo meus conhecimentos em programação, desenvolvimento web e b
 | 🗄️ **Sorriso Pleno — Banco de Dados** | Projeto acadêmico de modelagem de dados para gestão de clínica odontológica. | 🚧 Em desenvolvimento |
 | 🎯 **[Jogo do Número Secreto](https://github.com/Gustavo-Azevedo223/jogo-do-n-mero-secreto)** | Projeto para praticar fundamentos de programação. | 📂 Repositório público |
 
-## 📊 `04 // TELEMETRIA`
+## 🌐 `04 // CONEXÕES`
 
 <div align="center">
 
-<img height="165" alt="Estatísticas públicas do GitHub" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Azevedo223&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=020617&amp;title_color=22D3EE&amp;text_color=CBD5E1&amp;icon_color=06B6D4&amp;locale=pt-br"/>
+<a href="https://www.linkedin.com/in/gustavo-azevedo/"><img alt="Meu LinkedIn" src="https://img.shields.io/badge/LINKEDIN-CONECTAR-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
 
-<img height="165" alt="Linguagens dos repositórios públicos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Azevedo223&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=020617&amp;title_color=22D3EE&amp;text_color=CBD5E1&amp;locale=pt-br"/>
-
-<br/>
-
-<img alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=Gustavo-Azevedo223&amp;theme=tokyonight&amp;hide_border=true&amp;background=020617&amp;ring=06B6D4&amp;fire=22D3EE&amp;currStreakLabel=22D3EE"/>
-
-<sub>Os gráficos são fornecidos por serviços externos e podem ficar temporariamente indisponíveis.</sub>
-
-</div>
-
-## 🌐 `05 // CONEXÕES`
-
-<div align="center">
+&nbsp;&nbsp;
 
 <a href="https://github.com/Gustavo-Azevedo223?tab=repositories"><img alt="Explorar meus projetos" src="https://img.shields.io/badge/EXPLORAR-MEUS%20PROJETOS-0891B2?style=for-the-badge&amp;logo=github&amp;logoColor=white"/></a>
 
