@@ -59,7 +59,7 @@ Estou desenvolvendo meus conhecimentos em programação, desenvolvimento web e b
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/gustavo-azevedo/"><img alt="Meu LinkedIn" src="https://img.shields.io/badge/LINKEDIN-CONECTAR-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gustavo-azevedo-380208319/"><img alt="Meu LinkedIn" src="https://img.shields.io/badge/LINKEDIN-CONECTAR-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
 
 &nbsp;&nbsp;
 
